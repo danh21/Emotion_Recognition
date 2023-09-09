@@ -12,7 +12,7 @@
 # Instruction:
     - Use Visual Studio Code to open source code
     - Execute test.py
-    - To quit app (press q key on keyboard)
+    - To quit app (press "q" key on keyboard)
     - Should take off your glasses or anything hides your face.
 
 # Bonus:
